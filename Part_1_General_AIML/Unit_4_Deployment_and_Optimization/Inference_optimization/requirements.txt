@@ -1,0 +1,1 @@
+torch2trt @ git+https://github.com/aliencaocao/torch2trt@patch-1

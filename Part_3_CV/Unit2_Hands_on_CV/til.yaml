@@ -1,0 +1,7 @@
+path: C:/Users/alien/Documents/PyCharm-Projects/til-25-curriculum-working/Part_3_CV/Unit2_Intro_to_OD/dataset  # dataset_root dir
+train: train  # train split (relative to 'path' or dataset_root)
+val: val  # val split (relative to 'path' or dataset_root)
+
+# Classes
+names:
+  0: target

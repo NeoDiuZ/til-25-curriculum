@@ -1,0 +1,17 @@
+torchrl==0.7.0
+tensordict==0.7.2
+gymnasium==0.29.0
+tqdm
+matplotlib
+av
+pettingzoo
+torch>=2.0.0
+numpy
+fastapi
+uvicorn[standard]
+optuna
+pillow
+onnx
+onnxruntime
+onnxscript
+ipykernel
